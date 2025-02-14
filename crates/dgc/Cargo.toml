@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+chumsky = { version = "0.9" }
+salsa = { version = "0.16" }
+thiserror = { version = "2" }
